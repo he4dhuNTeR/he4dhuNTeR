@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me
 - 😄 Pronouns: lul
-- ⚡ Fun fact: twins are work^2
+- ⚡ Fun fact: twins are work *2, 3 kids are work^3
 
 <!---
 he4dhuNTeR/he4dhuNTeR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
